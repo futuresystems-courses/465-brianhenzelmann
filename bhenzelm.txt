@@ -1,0 +1,8 @@
+Example text file from my Futuresystems VM
+I was able to us git clone to download the repo locally.
+I can use git add to add files to the index
+I can use git commit to commit changes to the local repo
+I can use git push to push changes to the remote repo
+I can use git pull to download any changes in the repo
+
+A local repo is local to the device and remote is master in the repo.
